@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(245, 193, 21);
+    height: 700px;
+    width: 700px;
+}
+th{
+    height: 80px;
+    width: 80px;
+    font-size: 20px;
+    font: bold;
+    text-align: center;
+    color: black;
+}
+
+td.trang{
+    background-color: white;
+    height: 80px;
+    width: 80px;
+}
+td.den{
+    background-color: black;
+    height: 80px;
+    width: 80px;
+}
+td.chu{
+    font-size: 20px;
+    font: bold;
+    color: black;
+}
